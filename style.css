@@ -17,6 +17,13 @@ body{
     text-align: center;
 }
 
+.container-fluid{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding-top: 2cm;
+}
+
 .btn{
     background-color: rgb(0, 47, 127);
     border:none;
